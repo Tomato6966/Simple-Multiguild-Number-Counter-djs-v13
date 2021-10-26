@@ -1,7 +1,7 @@
 # Simple-Multiguild-Number-Counter-djs-v13
 A Repository Tutorial for a simple Multiguild Number Counter Tutorial, using the Database ENMAP (sqlite)
 
-# [👍 **YOUTUBE TUTORIAL**](https://www.youtube.com/watch?v=7k7ZTJpbdzo&)
+# [👍 **YOUTUBE TUTORIAL**](https://www.youtube.com/watch?v=ACogSh7qrT4)
 
 ## Installation Guide (Hosting)
 
