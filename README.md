@@ -5,7 +5,7 @@ A Repository Tutorial for a simple Multiguild Number Counter Tutorial, using the
 
 ## Installation Guide (Hosting)
 
-- Download the Code / Clone the Repository: `git clone https://github.com/Tomato6966/Simple-Fast-Global-Bot-v13`
+- Download the Code / Clone the Repository: `git clone https://github.com/Tomato6966/Simple-Multiguild-Number-Counter-djs-v13`
 
 - have **node.js v16.6 or higher**
 
