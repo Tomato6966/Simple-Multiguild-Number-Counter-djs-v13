@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "enmap": "^5.8.7"
+  },
+  "name": "chat-number-counter-bot",
+  "version": "1.0.0",
+  "description": "A Repository Tutorial for a simple Multiguild Number Counter Tutorial, using the Database ENMAP (sqlite)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomato6966/Simple-Multiguild-Number-Counter-djs-v13.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "djs",
+    "v13",
+    "milrato",
+    "number",
+    "counter",
+    "tutorial",
+    "easy",
+    "simple"
+  ],
+  "author": "Tomato#6966",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomato6966/Simple-Multiguild-Number-Counter-djs-v13/issues"
+  },
+  "homepage": "https://github.com/Tomato6966/Simple-Multiguild-Number-Counter-djs-v13#readme"
+}
